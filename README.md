@@ -4,7 +4,7 @@
 Поскольку я только начинаю свой путь, все книги юудут скорее всего связаны с ЯП Golang.
 
 - [ ] Planned
-- In Progress
+- (n-th) Current chapter
 - [x] Done
 
 ## Golang
@@ -12,7 +12,7 @@
 - [x] Let's Go Further by Alex Edwards
 
 - [ ] Shipping Go: Develop, deliever, discuss, design, and go again (2023)
-- 100 Go Mistakes and How to Aboid Them
+- (2nd) 100 Go Mistakes and How to Aboid Them
 - [ ] Mastering Go Network Automotation by Ian Taylor
 - [ ] Облачнй Go Создание надежных приложений в ненадежных окружениях by мэтью Титмус
 - [ ] Go Design Patterns

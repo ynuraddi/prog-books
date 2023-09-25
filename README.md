@@ -24,7 +24,7 @@
 - [ ] Распредленные данные by Алекс Петров
 
 ## Algorythms and Data-structures
-- Грокаем алгоритмы Адитья Бхаргава
+- [x] Грокаем алгоритмы Адитья Бхаргава
 
 ## Design
 - [ ] Building microservices by Sam Newman

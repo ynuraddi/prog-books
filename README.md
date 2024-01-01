@@ -16,8 +16,8 @@
 - [ ] Mastering Go Network Automotation by Ian Taylor
 - [ ] Облачнй Go Создание надежных приложений в ненадежных окружениях by мэтью Титмус
 - [ ] Go Design Patterns
-- [ ] Concurrency in Go Tools and Techniques for Developers
-- [ ] Effective Conurrency in Go by Burak Serdar
+- [x] Concurrency in Go Tools and Techniques for Developers
+- [x] Effective Conurrency in Go by Burak Serdar
 
 ## Database
 - [ ] MySQL Consurrency: Locking and Transactions for MySQL Developers and DBAs (2022)
@@ -32,7 +32,7 @@
 - [ ] Создание событийно управляемых микросервсов by Адам Беллемар
 
 ## Other
-- [ ] Банды четырех паттерны ООП
+- [x] Банды четырех паттерны ООП
 - [ ] Ремесло программиста практика написания хорошего кода by Питер Гудлиф
 - [ ] Гибкое тестирование by Лайза Криспин
 
